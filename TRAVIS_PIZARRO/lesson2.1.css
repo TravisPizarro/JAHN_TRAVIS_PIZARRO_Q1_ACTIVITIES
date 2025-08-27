@@ -1,0 +1,26 @@
+body{
+       background-color: rgb(192, 176, 125);
+
+
+}
+h1{
+    color: rgb(0, 0, 0)
+}
+h2{
+    color: rgb(0, 0, 0);
+}
+p{
+    color: rgb(43, 35, 1)
+}
+
+li{
+    color: rgb(43, 35, 1)
+}
+
+dd{
+    color: rgb(43, 35, 1)
+}
+
+dt{
+    color: rgb(43, 35, 1)
+}
